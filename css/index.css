@@ -1,0 +1,28 @@
+header {
+  background-color: #FE5400;
+}
+
+.header {
+  padding-left: 74px;
+  padding-right: .2rem;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-size: 54px 40px;
+  background-position: 9px center;
+  background-image: url('../images/icon.png');
+  background-repeat: no-repeat;
+}
+
+.search {
+  box-sizing: border-box;
+  background-color: #B52600;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.search span {
+  height: 50px;
+  line-height: 50px;
+  font-size: 26px;
+  color: #ffffff;
+}
