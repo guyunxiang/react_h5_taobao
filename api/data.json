@@ -1,0 +1,145 @@
+[
+  {
+    "title": {
+      "icon": "images/TB19Fi_JFXXXXXpXXXXXXXXXXXX-40-40.png",
+      "title": "好实惠",
+      "style": "red_text"
+    },
+    "content": [
+      {
+        "row": [
+          {
+            "flex": 2,
+            "src": "images/TB1hjZvJVXXXXaFXFXXgPBi_XXX-450-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1vFMEJVXXXXa_XpXXFgMv5pXX-225-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1ElUEJVXXXXbfXFXXXXXXXXXX-225-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1jW3sJVXXXXcoXFXXFgMv5pXX-225-354.png"
+          }
+        ]
+      },
+      {
+        "row": [
+          {
+            "flex": 2,
+            "src": "images/TB20.RXkFXXXXaRXpXXXXXXXXXX_!!2-subaru.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1nE71JVXXXXXPXXXXFgMv5pXX-225-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1RHcvJVXXXXaKXFXXXXXXXXXX-225-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB189sbJVXXXXcEXFXXFgMv5pXX-225-354.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "icon": "images/TB1a_GIJFXXXXaGXVXXXXXXXXXX-40-40.png",
+      "title": "好品质",
+      "style": "purple_text"
+    },
+    "content": [
+      {
+        "row": [
+          {
+            "flex": 3,
+            "src": "images/TB1Kjj0JVXXXXc7XpXX3P9TJpXX-675-294.png"
+          },
+          {
+            "flex": 2,
+            "src": "images/TB1uisxKFXXXXc7XXXXz0pd_XXX-450-294.png"
+          }
+        ]
+      },
+      {
+        "row": [
+          {
+            "flex": 1,
+            "src": "images/TB1Xa7vJVXXXXcUXpXXFgMv5pXX-225-354.jpg"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1UJYfLpXXXXadaXXXFgMv5pXX-225-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1.pAXJVXXXXc4XpXX2ggv5pXX-225-354.jpg_q50.jpg"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1eGv9JVXXXXaBXFXX2ggv5pXX-225-354.jpg_q50.jpg"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1kqQnJVXXXXXBXVXXXXXXXXXX-225-354.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "icon": "images/TB1YuW1JFXXXXXPXpXXXXXXXXXX-40-40.png",
+      "title": "有特色",
+      "style": "yellow_text"
+    },
+    "content": [
+      {
+        "row": [
+          {
+            "flex": 2,
+            "src": "images/TB1iekiJVXXXXbMXXXXgPBi_XXX-450-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1ktLWJVXXXXaQXVXXFgMv5pXX-225-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1vKvQJVXXXXcpXVXXFgMv5pXX-225-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1ThTZJVXXXXXXXVXXFgMv5pXX-225-354.png"
+          }
+        ]
+      },
+      {
+        "row": [
+          {
+            "flex": 2,
+            "src": "images/TB1OeMPJVXXXXatXXXXCO8i_XXX-450-354.jpg_q50.jpg"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1KtQDJVXXXXbmXXXXFgMv5pXX-225-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB183MMJVXXXXaEXXXXXXXXXXXX-225-354.png"
+          },
+          {
+            "flex": 1,
+            "src": "images/TB1cnL.JVXXXXaKXFXXFgMv5pXX-225-354.png"
+          }
+        ]
+      }
+    ]
+  }
+]
